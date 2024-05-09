@@ -4,3 +4,13 @@ matplotlib
 pandas
 scikit-learn
 geopandas
+numpy
+shapely
+osmnx
+networkx
+rioxarray
+selenium
+bs4
+descartes
+momepy
+folium
