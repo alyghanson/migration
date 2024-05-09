@@ -163,4 +163,5 @@ cython_debug/
 .mig
 
 #DS_store -> python binary files
-.DS_store
+.DS_Store
+whales/.DS_Store
