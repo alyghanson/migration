@@ -65,7 +65,7 @@ If so, by what distance?
 
 ### Expected outcomes
 
-We expect to see slight changes in migration patterns, perhaps to the west where deeper cooler water is located, We also expect to see minor temerature changes off the coast of California between these years. This year span is small so only minor changes are expected. However, if there is a trend, even if it is small we may expect this to continue.
+We expect to see slight changes in migration patterns, perhaps to the west where deeper, cooler, water is located as average sea-surface temerature changes. We also expect to see minor temperature changes off the coast of California between these years. This year span is small so only minor changes are expected. However, if there is a trend, even if it is small we may expect this to continue. The new migration sites may have sea-surface temperatures similar to the original sites in 1993.
 
 ### Other relevant information
 
@@ -161,26 +161,3 @@ NOAA National Centers for Environmental Information
 
 ***Publishers***
 NOAA National Centers for Environmental Information
-
-### Python Packages:
-jupyter
-seaborn
-matplotlib
-pandas
-scikit-learn
-geopandas
-numpy
-shapely
-osmnx
-networkx
-rioxarray
-selenium
-bs4
-descartes
-momepy
-folium
-
-### Planned methods/approachs:
-
-### Expected outcomes:
-Changing climate conditions affect Whale migration. We expect migration sites to change as average sea-surface temerature changes. The new migration sites may have sea-surface temperatures similar to the original sites in 1993. 
