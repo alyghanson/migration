@@ -1,10 +1,9 @@
 # Relationship Between Blue Whale Migration and Environmental Factors
 
-## Authors:
+## Authors
 
 * Lyssa Hanson email: <ahanson2@uoregon.edu>
 * Gage Doyle email: <gdoy@uoregon.edu>
-
 
 ### Summary
 
