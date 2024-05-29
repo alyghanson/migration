@@ -14,3 +14,5 @@ bs4
 descartes
 momepy
 folium
+netCDF4
+h5netcdf
