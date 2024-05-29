@@ -16,3 +16,5 @@ momepy
 folium
 netCDF4
 h5netcdf
+basemap
+basemap-data-hires
