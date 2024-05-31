@@ -11,18 +11,18 @@ This project seeks to determine if whale movement along the California Coast hav
 
 ### Objective/Question
 
-* Map the migration patterns in years 1993 (ASK GAGE MAYBE WE DO A LATER DATE DUE TO SMALL NUMBER OF DATA THAT YEAR) to 2008.
+* Map the migration patterns in years 1999 & 2008.
 
-* Has the migration patterns of Blue whales changed between 1993 and 2008?
-If so, by what distance?
+* Has the migration patterns of Blue whales changed between 1999 and 2008?
+  If so, by what distance?
 
-* What is the average sea surface temperature of the migration sites during habbited seasons? (2 avgs: 1 for winter site, 1 for summer)
+* What is the average sea surface temperature of the migration sites.
 
-* Has the average sea-surface temperatures of the sites changed between 1993-2008? If so, how? (Conduct for both winter and summer sites)
+* Has the average sea-surface temperatures of the sites changed between 1999-2008? If so, how much?
 
-* If the migration sites have changed, what are the current water temperatures of the new sites, and how do they compare to the orignal temperatures of the 1993 sites? Are they similar/correlated? (Conduct for both winter and summer sites)
+* If the migration sites have changed, what are the current water temperatures of the new sites, and how do they compare to the orignal temperatures of the 1999 sites? Are they similar/correlated?
 
-* How do the current temperatures of the new sites compare to current temeratures at the original sites? (Conduct for both winter and summer sites)
+* How do the current temperatures of the new sites compare to current temeratures at the original sites?
 
 * Does sea surface temperature indicate any correlation to whale migration patterns?
 
