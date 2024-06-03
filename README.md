@@ -106,58 +106,82 @@ Mate BR, Lagerquist BA, Calambokidis J. 1999. Movements of North Pacific blue wh
 
 #### NOAA Global Surface Temperature Dataset Citation
 
-**Name**: NOAA Global Surface Temperature Dataset (NOAAGlobalTemp), Version 5.0
-NOAAGlobalTemp v5
+**Name**: Extended Reconstructed Sea Surface Temperature (ERSST), Version 4
+ERSST v4
 
 **License Type**: CC BY
 
 **License Terms**: Creative Commons Attribution (CC BY)
 
-**Citation**: H.-M. Zhang, B. Huang, J. H. Lawrimore, M. J. Menne, and T. M. Smith (2019): NOAA Global Surface Temperature Dataset (NOAAGlobalTemp), Version 5.0 [Sea Surface Temperature]. NOAA National Centers for Environmental Information. doi:10.25921/9qth-2p70 [05/12/2024].
+**Citation**:  Boyin Huang, Viva F. Banzon, Eric Freeman, Jay Lawrimore, Wei Liu, Thomas C. Peterson, Thomas M. Smith, Peter W. Thorne, Scott D. Woodruff, and Huai-Min Zhang, 2015: Extended Reconstructed Sea Surface Temperature (ERSST), Version 4. 1999 & 2008 Subsets. NOAA National Centers for Environmental Information. doi:10.7289/V5KD1VVF 06/01/2024.
+
 
 **Link** <https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C01585>
 
 ***Cited Authors***:	
-Zhang, Huai-Min
-NOAA National Centers for Environmental Information
-
 Huang, Boyin
-NOAA National Centers for Environmental Information
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
 
-Lawrimore, Jay H.
-NOAA National Centers for Environmental Information
+Banzon, Viva F.
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
 
-Menne, Matthew J.
-NOAA National Centers for Environmental Information
+Freeman, Eric
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+
+Lawrimore, Jay
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+
+Liu, Wei
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+
+Peterson, Thomas C.
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
 
 Smith, Thomas M.
-NOAA National Centers for Environmental Information
+DOC/NOAA/NESDIS/STAR > Center for Satellite Applications and Research, NESDIS, NOAA, U.S. Department of Commerce
 
-***Originators***:
-Smith, Thomas M.
-NOAA National Centers for Environmental Information
+Thorne, Peter W.
+NERSC > Nansen Environmental and Remote Sensing Centre
+
+Woodruff, Scott D.
+UCO/CIRES > Cooperative Institute for Research in Environmental Sciences, University of Colorado
+
+Zhang, Huai-Min
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+
 
 ***Principal Investigators***:
-Zhang, Huai-Min
-NOAA National Centers for Environmental Information
-
-***Contributors***:
 Huang, Boyin
-NOAA National Centers for Environmental Information
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
 
-Menne, Matthew J.
-NOAA National Centers for Environmental Information
+***Collaborators***:
 
-***Processors***:
-Xungang, Yin
-NOAA National Centers for Environmental Information
+Banzon, Viva F.
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
 
-Zhang, Yongsheng
-NOAA National Centers for Environmental Information
+Freeman, Eric
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
 
-***Resource Providers***:
-Lawrimore, Jay H.
-NOAA National Centers for Environmental Information
+Lawrimore, Jay
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+
+Liu, Wei
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+
+Peterson, Thomas C.
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+
+Smith, Thomas M.
+DOC/NOAA/NESDIS/STAR > Center for Satellite Applications and Research, NESDIS, NOAA, U.S. Department of Commerce
+
+Thorne, Peter W.
+NERSC > Nansen Environmental and Remote Sensing Centre
+
+Woodruff, Scott D.
+UCO/CIRES > Cooperative Institute for Research in Environmental Sciences, University of Colorado
+
+Zhang, Huai-Min
+DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
 
 ***Publishers***
 NOAA National Centers for Environmental Information
