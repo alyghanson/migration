@@ -7,7 +7,7 @@
 
 ### Summary
 
-This project seeks to determine if whale movement along the California Coast have changed between 1993 and 2008, and if said changes are correlated to environmental factors like sea-surface temperature.
+This project seeks to determine if whale movement along the California Coast have changed between 1999 and 2008, and if said changes are correlated to environmental factors like sea-surface temperature.
 
 ### Objective/Question
 
